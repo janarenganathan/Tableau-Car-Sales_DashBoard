@@ -2,6 +2,7 @@
 
 
 📊 Project Overview
+
 This project presents an interactive Car Sales Dashboard built using Tableau, aimed at visualizing and analyzing key metrics from car sales data. The dashboard enables stakeholders to understand sales trends, identify top-performing models, and make data-driven decisions based on customer preferences, revenue distribution, and regional performance.
 
 📁 Dataset
