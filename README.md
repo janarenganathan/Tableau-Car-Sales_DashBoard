@@ -79,4 +79,4 @@ Jana R
 🔗 LinkedIn www.linkedin.com/in/jana-r/
 
 
-![Uploading car sales.png…]()
+
