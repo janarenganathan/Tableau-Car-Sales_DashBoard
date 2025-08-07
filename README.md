@@ -45,6 +45,8 @@ Car Type Breakdown: Pie/bar charts to show preference for different types like S
 
 Interactive Filters: Allow users to filter by year, region, car type, and more.
 
+
+
 🎯 Objectives
 Identify trends in car sales over time.
 
@@ -54,10 +56,13 @@ Understand regional differences in customer behavior.
 
 Provide a user-friendly interface for business users and analysts.
 
+
 📌 How to View the Dashboard
 You can access the dashboard using the following link:
 
 🔗 View Tableau Dashboard (https://github.com/janarenganathan/Tableau-Car-Sales_DashBoard/tree/main)
+
+
 
 📚 Learnings & Takeaways
 Developed proficiency in data visualization with Tableau.
@@ -66,10 +71,14 @@ Gained insights into sales performance and customer preferences.
 
 Improved storytelling through interactive dashboards.
 
+
+
 🚀 Future Improvements
 Add forecasted sales using Tableau’s built-in forecasting tools.
 
 Include customer demographic data for deeper segmentation.
+
+
 
 📬 Contact
 For any questions or collaboration inquiries:
